@@ -1,3 +1,7 @@
+# Fork
+
+This repo was forked for the sole purpose of changing the identifier hlgroup to a white base color. I simply can't stand red identifiers.
+
 # Base16 Neovim
 
 *Important: This repository was recently renamed from `base16-nvim` to
