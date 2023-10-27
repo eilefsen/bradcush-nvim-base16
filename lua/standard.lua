@@ -16,7 +16,7 @@ local make = function(c)
         {hlgroup = 'Keyword', guifg = c.base0E, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Label', guifg = c.base0A, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Number', guifg = c.base09, guibg = nil, gui = nil, guisp = nil},
-        {hlgroup = 'Operator', guifg = c.base05, guibg = nil, gui = 'none', guisp = nil},
+        {hlgroup = 'Operator', guifg = c.base0F, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'PreProc', guifg = c.base0A, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Repeat', guifg = c.base0A, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Special', guifg = c.base0C, guibg = nil, gui = nil, guisp = nil},

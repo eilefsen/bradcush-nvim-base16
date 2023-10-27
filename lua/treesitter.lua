@@ -28,7 +28,7 @@ local make = function(c)
         {hlgroup = 'TSNamespace', guifg = c.base0C, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSNone', guifg = nil, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSNumber', guifg = c.base09, guibg = nil, gui = 'none', guisp = nil},
-        {hlgroup = 'TSOperator', guifg = c.base05, guibg = nil, gui = 'none', guisp = nil},
+        {hlgroup = 'TSOperator', guifg = c.base0F, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSParameter', guifg = c.base0A, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSParameterReference', guifg = c.base0A, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSProperty', guifg = c.base0D, guibg = nil, gui = 'none', guisp = nil},
