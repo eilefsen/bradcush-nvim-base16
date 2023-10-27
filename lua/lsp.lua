@@ -10,9 +10,13 @@ local make = function(c)
         {hlgroup = 'LspDiagnosticsDefaultInformation', guifg = c.base0D, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'LspDiagnosticsDefaultHint', guifg = c.base05, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'LspDiagnosticsUnderlineError', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base08},
+        {hlgroup = 'DiagnosticUnderlineError', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base08},
         {hlgroup = 'LspDiagnosticsUnderlineWarning', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base0A},
+        {hlgroup = 'DiagnosticUnderlineWarn', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base0A},
         {hlgroup = 'LspDiagnosticsUnderlineInformation', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base0D},
-        {hlgroup = 'LspDiagnosticsUnderlineHint', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base05}
+        {hlgroup = 'DiagnosticUnderlineInfo', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base0D},
+        {hlgroup = 'LspDiagnosticsUnderlineHint', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base05},
+        {hlgroup = 'DiagnosticUnderlineHint', guifg = nil, guibg = nil, gui = 'undercurl', guisp = c.base05},
         -- LuaFormatter on
     }
 end
