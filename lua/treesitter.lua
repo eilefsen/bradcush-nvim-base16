@@ -5,7 +5,7 @@ local make = function(c)
         {hlgroup = 'TSAnnotation', guifg = c.base0F, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSAttribute', guifg = c.base0A, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSBoolean', guifg = c.base09, guibg = nil, gui = 'none', guisp = nil},
-        {hlgroup = 'TSCharacter', guifg = c.base05, guibg = nil, gui = 'none', guisp = nil},
+        {hlgroup = 'TSCharacter', guifg = c.base0B, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSComment', guifg = c.base03, guibg = nil, gui = 'italic', guisp = nil},
         {hlgroup = 'TSConstructor', guifg = c.base0C, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'TSConditional', guifg = c.base0E, guibg = nil, gui = 'none', guisp = nil},

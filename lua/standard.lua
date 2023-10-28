@@ -3,7 +3,7 @@ local make = function(c)
     return {
         -- LuaFormatter off
         {hlgroup = 'Boolean', guifg = c.base09, guibg = nil, gui = nil, guisp = nil},
-        {hlgroup = 'Character', guifg = c.base05, guibg = nil, gui = nil, guisp = nil},
+        {hlgroup = 'Character', guifg = c.base0B, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Comment', guifg = c.base03, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Conditional', guifg = c.base0E, guibg = nil, gui = nil, guisp = nil},
         {hlgroup = 'Constant', guifg = c.base09, guibg = nil, gui = nil, guisp = nil},
