@@ -21,4 +21,7 @@ local make = function(c)
     }
 end
 
+vim.cmd("highlight link LspInlayHint StatusLine")
+
+
 return make
